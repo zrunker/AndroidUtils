@@ -17,3 +17,8 @@ https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/
 
 ### 6. ToastUtil 吐司管理类
 https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/ToastUtil.java
+
+### 7. StringUtil 字符串管理类
+https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/StringUtil.java
+
+### 8. SpanTextViewUtil Span文字显示管理类
