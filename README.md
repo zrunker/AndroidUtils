@@ -16,3 +16,4 @@ https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/
 https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/UrlUtil.java
 
 ### 6. ToastUtil 吐司管理类
+https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/ToastUtil.java
