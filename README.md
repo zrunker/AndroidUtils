@@ -63,42 +63,15 @@ https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/
 #### 21. NetworkUtil （网络工具类）
 https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/NetworkUtil.java
 
-#### 22. WebViewToPictrueUtil （WebView生成图片工具类）
-https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/WebViewToPictrueUtil.java
+#### 22. WebViewToPictureUtil （WebView生成图片工具类）
+https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/WebViewToPictureUtil.java
 
+#### 23. BitmapCacheUtil （Bitmap缓存工具类）
+https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/bitmap/BitmapCacheUtil.java
 
+#### 24. BitmapUtil （Bitmap工具类）
+https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/bitmap/BitmapUtil.java
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### 25. FileUtil （文件工具类）
+https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/file/FileUtil.java
 
