@@ -43,7 +43,7 @@ https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/
 https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/AppUtil.java
 
 ### 15. ActivityUtil Activity工具类
-
+https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/ActivityUtil.java
 
 
 
