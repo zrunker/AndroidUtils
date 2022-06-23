@@ -16,7 +16,7 @@ allprojects {
 }
 ```
 
-````
+```
 // 添加依赖
 dependencies {
    implementation 'com.github.zrunker:AndroidUtils:v1.0'
