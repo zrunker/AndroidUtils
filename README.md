@@ -1,5 +1,47 @@
 # AndroidUtils
 
+## 引入资源：
+
+这里提供两种方式引入资源：
+
+1、在build.gradle文件中添加以下代码：
+
+在build.gradle文件中添加以下代码：
+```
+// 添加仓库
+allprojects {
+   repositories {
+      maven { url 'https://www.jitpack.io' }
+   }
+}
+```
+
+````
+// 添加依赖
+dependencies {
+   implementation 'com.github.zrunker:AndroidUtils:v1.0'
+}
+```
+2、使用maven，添加以下代码：
+```
+<repositories>
+   <repository>
+      <id>jitpack.io</id>
+      <url>https://jitpack.io</url>
+   </repository>
+</repositories>
+```
+
+```
+<dependency>
+   <groupId>com.github.zrunker</groupId>
+   <artifactId>AndroidUtils</artifactId>
+   <version>v1.0</version>
+</dependency>
+```
+
+## API说明：
+
 #### 1. DateUtil （日期时间工具类）
 https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/DateUtil.java
 
