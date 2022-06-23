@@ -31,3 +31,4 @@ https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/
 https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/NumUtil.java
 
 ### 11. DensityUtil 屏幕尺寸工具类
+https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/DensityUtil.java
