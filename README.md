@@ -36,9 +36,8 @@ https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/
 ### 12. ClipboardUtil 剪切板工具类
 https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/ClipboardUtil.java
 
-
 ### 13. ClickUtil 点击事件工具类
-
+https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/ClickUtil.java
 
 ### 14. AppUtil APP工具类
 
