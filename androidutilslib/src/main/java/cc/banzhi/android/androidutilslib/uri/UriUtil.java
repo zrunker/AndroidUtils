@@ -9,7 +9,7 @@ import android.provider.MediaStore;
 import android.text.TextUtils;
 
 /**
- * Uri管理类
+ * Uri工具类
  *
  * @author 邹峰立
  */

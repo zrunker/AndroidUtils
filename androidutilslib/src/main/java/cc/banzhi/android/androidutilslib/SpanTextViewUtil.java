@@ -23,7 +23,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 
 /**
- * TextView文本管理类
+ * TextView文本工具类
  * 注意几个属性：
  * Spanned.SPAN_EXCLUSIVE_EXCLUSIVE(前后都不包括)、
  * Spanned.SPAN_INCLUSIVE_EXCLUSIVE(前面包括，后面不包括)、

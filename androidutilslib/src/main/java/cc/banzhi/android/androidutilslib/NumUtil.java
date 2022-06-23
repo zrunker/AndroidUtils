@@ -7,7 +7,7 @@ import java.text.DecimalFormat;
 import java.text.NumberFormat;
 
 /**
- * 数字转换工具类
+ * 数字工具类
  *
  * @author 邹峰立
  */

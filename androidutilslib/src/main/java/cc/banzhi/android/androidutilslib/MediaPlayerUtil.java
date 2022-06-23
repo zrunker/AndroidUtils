@@ -18,7 +18,7 @@ import android.util.Log;
 import android.widget.Toast;
 
 /**
- * MediaPlayer管理类
+ * MediaPlayer工具类
  *
  * @author 邹峰立
  */

@@ -12,7 +12,7 @@ import org.jsoup.select.Elements;
 import java.util.ArrayList;
 
 /**
- * Url处理类
+ * Url抓取工具类
  *
  * @author 邹峰立
  */

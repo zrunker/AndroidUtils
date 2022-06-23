@@ -13,7 +13,8 @@ import android.widget.ListView;
 import android.widget.RelativeLayout;
 
 /**
- * 系统屏幕的一些操作
+ * 系统屏幕工具类
+ *
  * create by 邹峰立 on 2016-8-14
  */
 public class DensityUtil {

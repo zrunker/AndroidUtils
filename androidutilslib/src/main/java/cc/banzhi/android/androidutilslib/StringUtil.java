@@ -10,7 +10,7 @@ import cc.banzhi.android.androidutilslib.regex.RegularExpressionUtil;
 import cc.banzhi.android.androidutilslib.regex.ValidIDCard;
 
 /**
- * 字符串管理类
+ * 字符串工具类
  *
  * @author 邹峰立
  */

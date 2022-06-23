@@ -10,7 +10,8 @@ import java.util.Locale;
 import java.util.TimeZone;
 
 /**
- * 日期时间管理类
+ * 日期时间工具类
+ *
  * Created by 邹峰立 on 2017/7/12.
  */
 public class DateUtil {

@@ -16,7 +16,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 /**
- * 自定义Toast管理类
+ * Toast工具类
  *
  * @author 邹峰立
  */
