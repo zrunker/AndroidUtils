@@ -117,3 +117,6 @@ https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/
 #### 25. FileUtil （文件工具类）
 https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/file/FileUtil.java
 
+推荐阅读：
+- http://ibooker.cc/article/21/detail
+- http://ibooker.cc/article/20/detail
