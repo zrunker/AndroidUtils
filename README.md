@@ -45,17 +45,17 @@ https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/
 #### 15. ActivityUtil （Activity工具类）
 https://github.com/zrunker/AndroidUtils/blob/main/androidutilslib/src/main/java/cc/banzhi/android/androidutilslib/ActivityUtil.java
 
+#### 16. EditTextUtil （EditText工具类）
 
+#### 17. Base64Util （Base64工具类）
 
+#### 18. GZIPUtil （GZIP压缩封装工具类）
 
+#### 19. MD5Util （MD5工具类）
 
+#### 20. MacAddressUtil （mac地址工具类）
 
-
-
-
-
-
-
+#### 21. NetworkUtil （网络工具类）
 
 
 
